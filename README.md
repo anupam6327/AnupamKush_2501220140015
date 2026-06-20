@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anupam6327/srm_dsa/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/anupam6327/srm_dsa/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/anupam6327/srm_dsa/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/anupam6327/srm_dsa/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +53,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/anupam6327/srm_dsa/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/anupam6327/srm_dsa/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/anupam6327/srm_dsa/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
